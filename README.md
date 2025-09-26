@@ -45,6 +45,10 @@ CSS3 – Styling and responsive layout
 
 JavaScript (ES6) – Filtering, modal, and download functionality
 
+## Live Site
+[Check it out on Netlify](https://majestic-profiterole-e52e45.netlify.app/)
+
+
 👩‍💻 Author
 
 Created by Zainab Ogundairo — Spreading positivity, one quote at a time. 🌸
